@@ -19,7 +19,7 @@ main {
   background: #ffffff;
   max-width: 288px;
   height: 469px;
-  margin-left: 40vw;
+  margin: 0 auto;
   border: 1px solid white;
   border-radius: 27px;
   position: relative;
